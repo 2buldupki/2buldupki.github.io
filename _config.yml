@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "kr-Kr"
+locale                   : "en-US"
 title                    : "Dohyung Kim Dev"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dohyung Kime"
+name                     : "name"
 description              : "An amazing website."
 url                      : "https://2buldupki.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
